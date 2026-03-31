@@ -21,13 +21,12 @@ The company sells a "KLOW Blend" that combines all 4 peptides in one vial. We're
 3. **BPC-157/TB-500 and GHK-Cu cycle** 8 weeks on, 4 weeks off.
 4. **Don't open a new vial** if there aren't enough ON days left to use ≥40% of it.
 5. **Reconstituted vials expire after 28 days** regardless of remaining contents.
-6. **GHK-Cu for Subject A uses only 2 vials** (not 5). Subject B gets 8. They split a 10-vial kit.
-7. **BPC-157/TB-500 and KPV are split evenly** — 5 vials each per subject.
+6. **All kits split evenly** — 5 vials each per subject for BPC-157/TB-500, KPV, and GHK-Cu.
 
 ## Subject Profiles
 
-- **Subject A:** 24F, 5'8", 120 lbs. BPC/TB4 500mcg/day, KPV 500mcg/day, GHK-Cu 1mg/day. 2 GHK-Cu vials.
-- **Subject B:** 33M, 5'9", 160 lbs. BPC/TB4 500mcg/day, KPV 500mcg/day, GHK-Cu 2mg/day. 8 GHK-Cu vials. Has right knee (partial meniscus removal) and lower back/QL issues — BPC/TB4 can be injected near these areas.
+- **Subject A:** 24F, 5'8", 120 lbs. BPC/TB4 500mcg/day, KPV 500mcg/day, GHK-Cu 1mg/day. 5 GHK-Cu vials.
+- **Subject B:** 33M, 5'9", 160 lbs. BPC/TB4 500mcg/day, KPV 500mcg/day, GHK-Cu 2mg/day. 5 GHK-Cu vials. Has right knee (partial meniscus removal) and lower back/QL issues — BPC/TB4 can be injected near these areas.
 
 ## Tech Stack
 

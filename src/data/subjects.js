@@ -1,6 +1,6 @@
 export const SUBJECTS = {
-  a: { id: 'a', label: 'Subject A', tag: "24F \u00b7 5'8\" \u00b7 120 lbs", ghkVials: 2, ghkDose: 1, ghkUnits: 10 },
-  b: { id: 'b', label: 'Subject B', tag: "33M \u00b7 5'9\" \u00b7 160 lbs", ghkVials: 8, ghkDose: 2, ghkUnits: 20 },
+  a: { id: 'a', label: 'Subject A', tag: "24F \u00b7 5'8\" \u00b7 120 lbs", ghkVials: 5, ghkDose: 1, ghkUnits: 10 },
+  b: { id: 'b', label: 'Subject B', tag: "33M \u00b7 5'9\" \u00b7 160 lbs", ghkVials: 5, ghkDose: 2, ghkUnits: 20 },
 };
 
 export const makePeptides = (s) => [

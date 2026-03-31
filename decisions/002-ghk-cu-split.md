@@ -1,7 +1,7 @@
-# Decision 002: GHK-Cu 2/8 Vial Split
+# Decision 002: GHK-Cu 5/5 Even Vial Split
 
 **Date:** March 2026
-**Status:** Final
+**Status:** Final (revised from 2/8 split)
 
 ## Context
 
@@ -9,25 +9,23 @@ Both subjects share a 10-vial GHK-Cu kit. Need to determine allocation.
 
 ## Decision
 
-Subject A gets 2 vials. Subject B gets 8 vials.
+Even split: Subject A gets 5 vials, Subject B gets 5 vials. Same as BPC-157/TB-500 and KPV.
 
 ## Rationale
 
+All kits are split 50/50 for simplicity and consistency. The simulation engine's smart vial opening rule handles scheduling — it won't open a vial if there aren't enough ON days remaining to use ≥40% of it, so extra vials simply remain unopened rather than creating waste.
+
 ### Subject A (24F, 1mg/day)
 - At 1mg/day, each 50mg vial theoretically lasts 50 days but expires after 28 (shelf life)
-- 2 vials × 28 usable days = 56 days = exactly one 8-week ON cycle
-- Perfect fit with zero awkward partial vials carrying over
-- At 24, her natural GHK-Cu levels are still near peak — one cycle is sufficient
-- Unavoidable waste: 22mg per vial × 2 = 44mg (consequence of dose/shelf mismatch)
+- Unavoidable waste: 22mg per vial (consequence of dose/shelf mismatch)
+- 5 vials gives flexibility across multiple cycles rather than limiting to exactly one
 
 ### Subject B (33M, 2mg/day)
 - At 2mg/day, each 50mg vial lasts 25 days (within 28-day shelf life)
 - Zero waste per vial
-- 8 vials = 200 active days across multiple cycles
-- At 33, natural GHK-Cu levels have declined meaningfully — longer course justified
+- At 33, natural GHK-Cu levels have declined meaningfully — benefits from multiple cycles
 - Connective tissue repair directly benefits his knee and lower back issues
 
-## Alternatives Considered
+## Previous Decision
 
-- **5/5 even split:** Subject A would waste 3 vials sitting unused or have excessive waste from shelf life expiration. Subject B wouldn't have enough for multiple cycles.
-- **3/7 split:** 3 vials for Subject A means one partial vial carries across an OFF period and expires. Wasteful.
+Originally a 2/8 split, with Subject A getting only 2 vials (exactly one ON cycle). Changed to 5/5 to match the even-split approach used for all other kits.

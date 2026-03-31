@@ -81,16 +81,15 @@ Example: GHK-Cu at 2mg/day, 50mg vial (25 days per vial). If only 6 ON days rema
 |---------|-----------|-----------|-------|
 | BPC-157/TB-500 | 5 | 5 | 10 |
 | KPV | 5 | 5 | 10 |
-| GHK-Cu | 2 | 8 | 10 |
+| GHK-Cu | 5 | 5 | 10 |
 
-### Why the Uneven GHK-Cu Split
-- Subject A at 1mg/day with 28-day shelf life: each vial provides 28 days. 2 vials = 56 days = exactly 1 full ON cycle. Perfect fit, no awkward partial vials.
-- Subject B at 2mg/day: each vial provides 25 days with zero waste. 8 vials spans multiple cycles.
+### Even Split Rationale
+All 10-vial kits are split 5/5. This keeps allocation simple and consistent. The simulation engine's smart vial opening rule handles any waste from shelf life expiration — Subject A at 1mg/day will have some per-vial waste (22mg) due to the 28-day shelf life vs 50-day theoretical supply, but the extra vials give her more flexibility across multiple cycles.
 
 ## BAC Water Requirements
 
-**Subject A:** 5×1ml + 5×2ml + 2×5ml = 25ml → 1 × 30ml vial
-**Subject B:** 5×1ml + 5×2ml + 8×5ml = 55ml → 2 × 30ml vials
+**Subject A:** 5×1ml + 5×2ml + 5×5ml = 40ml → 2 × 30ml vials
+**Subject B:** 5×1ml + 5×2ml + 5×5ml = 40ml → 2 × 30ml vials
 
 ## Syringe Specification
 
