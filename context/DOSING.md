@@ -12,6 +12,23 @@ Prevents receptor desensitization. Constant peptide signaling causes the body to
 ### Why KPV Doesn't Cycle
 KPV is a tripeptide fragment of α-MSH acting on melanocortin receptors as an anti-inflammatory. Unlike growth factor peptides (BPC-157, TB-500) and matrix-remodeling peptides (GHK-Cu), there is less concern about receptor desensitization with small anti-inflammatory peptides. Running it continuously maintains steady-state inflammation suppression.
 
+## Why Daily (7 Days/Week)
+
+All three injections are administered every day during ON periods — no 5-on/2-off schedule.
+
+**BPC-157/TB-500:** BPC-157 has an extremely short plasma half-life (~15 minutes). Its therapeutic effect lasts ~24 hours via downstream signaling cascades (angiogenesis, growth factor upregulation), but consistent daily dosing is needed to keep those cascades running. TB-500 alone only needs 2x/week due to longer tissue persistence (~3–4 days), but in a daily blend at 500mcg the frequency is driven by BPC-157's pharmacokinetics.
+
+**KPV:** Acts via intracellular NF-κB inhibition rather than cell-surface receptor binding. Low desensitization risk — continuous daily dosing maintains steady-state inflammation suppression, which is the goal.
+
+**GHK-Cu:** Some community protocols use 5-on/2-off as a copper exposure precaution, but the therapeutic dose (1–2mg/day) is ~300× below toxic thresholds in animal studies. Daily dosing is well-supported by clinic protocols. More importantly, switching to 5/2 would increase vial waste for both subjects:
+
+| Schedule | Subject A (1mg) waste/vial | Subject B (2mg) waste/vial |
+|----------|---------------------------|---------------------------|
+| 7/week (current) | 22mg (44%) | 0mg (0%) |
+| 5/week | 30mg (60%) | 10mg (20%) |
+
+The 8-weeks-on/4-weeks-off cycling protocol already provides recovery breaks, making additional weekly rest days redundant.
+
 ## Smart Vial Opening Rule
 
 **Do NOT reconstitute a new vial if there aren't enough ON days remaining to use ≥40% of its contents.**
